@@ -16,18 +16,18 @@ As tecnologias usadas até o momento são:
 * [HG Finance API](https://hgbrasil.com/status/finance) - Recupera dados da conversão
 
 ## Instruções de uso
-Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/app-debug.apk) e executar no android.
+Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/master/screenshots/app-debug.apk) e executar no android.
 
 ## Telas
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/master/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela1: Home1</h5>
 </p>
 <br /> 
 <br /> 
 <br /> 
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/master/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela2: Home2 </h5>
 </p>
 
